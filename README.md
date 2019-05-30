@@ -1,2 +1,2 @@
-# xmissy_wx_sp
+# xmissy_wx_mp
 微信小程序
